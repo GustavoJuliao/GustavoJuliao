@@ -1,7 +1,6 @@
 # Apresentação
-- 👋 Olá, sou estudante de ciência da computação, estudando bastante linguagem java, python, javascript e entusiasta de Segurança da Informação.
+- 👋 Olá, sou estudante de ciência da computação (ultimo ano), estudando bastante linguagem java, python, javascript e entusiasta de Segurança da Informação.
 - 🌱 Atualmente aprendendo java.    
-- 📫 Me contate: [Twitter](https://twitter.com/banjuliao) / [Linkedin](https://www.linkedin.com/in/gustavo-s-juliao-11s/)    
 - ⚡️ Curiosidade: sou fã de Pokémon, Yu Gi Oh, torcedor do Manchester United e as vezes do São Paulo.   
 
    
