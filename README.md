@@ -12,7 +12,19 @@
 |--|--|--|
 
   ##
+**Banco de dados**
+
+<img alt="MONGODB" title="MongoDB" width="70px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> | <img title="MySQL" alt="MySQL" width="60px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+|--|--|
+
+  ##
   
+  **Frameworks, Plataformas e Libraries**
+ <img alt="Insomnia" title="Insomnia" width="70px" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"> | <img title="Node.js" alt="Nodejs" width="70px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />|<img alt="react" title="React" width="60px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">|<img alt="React Native" title="React Native" width="80px" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+|--|--|--|--|
+
+ ##
+ 
 <div> 
   <a href="https://twitter.com/banjuliao" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gustav.oj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
