@@ -1,6 +1,6 @@
 # Apresentação
 - 👋 Olá, sou estudante de ciência da computação (ultimo ano), estudando bastante linguagem java, python, javascript e entusiasta de Segurança da Informação.
-- 🌱 Atualmente aprendendo java.    
+- 🌱 Atualmente aprendendo java, javascript e react.    
 - ⚡️ Curiosidade: gosto de jogos de Pokémon, Yu Gi Oh, Battlefield 4, entre outros, torcedor do Manchester United e as vezes do São Paulo.   
 
    
