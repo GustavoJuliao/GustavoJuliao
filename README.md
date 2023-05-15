@@ -1,7 +1,7 @@
 # Apresentação
 - 👋 Olá, trabalho como desenvolvedor Java | Spring Boot | SQL | MySQL, formado em ciência da computação, entusiasta de Segurança da Informação, participo voluntariamente da ong Politize!.
 - 🌱 Atualmente aprendendo java, spring boot, javascript, react.    
-- ⚡️ Curiosidade: gosto de jogos de turno como Pokémon, Yu Gi Oh, torcedor do São Paulo e Manchester United.   
+- ⚡️ Curiosidade: gosto de jogos de turno como Pokémon, Yu Gi Oh, torcedor do São Paulo e Manchester United, nunca viajei para fora do estado de São Paulo e morei na praia quando era pequeno durante 3 anos.   
 
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoJuliao&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
