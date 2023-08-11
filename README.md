@@ -1,7 +1,7 @@
 # Apresentação
-- 👋 Olá, trabalho como desenvolvedor Java | Spring Boot | SQL | MySQL, formado em ciência da computação, entusiasta de Segurança da Informação, participo voluntariamente da ong Politize!.
-- 🌱 Atualmente aprendendo java, spring boot, javascript, react.    
-- ⚡️ Curiosidade: gosto de jogos de turno como Pokémon, Yu Gi Oh, torcedor do São Paulo e Manchester United, nunca viajei para fora do estado de São Paulo e morei na praia quando era pequeno durante 3 anos.   
+- 👋 Olá, sou brasileiro, tenho 25 anos e trabalho como desenvolvedor full stack web com Java | Spring Boot | SQL | MySQL, formado em ciência da computação, entusiasta de Segurança da Informação.
+- 🌱 Atualmente aprendendo java, spring boot, javascript.    
+- ⚡️ Curiosidade: gosto de jogos de turno, sou torcedor do São Paulo e Manchester United, além de formado como técnico de informática também possuo técnico em contabilidade. Morei na praia quando pequeno.
 
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoJuliao&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,7 +33,7 @@
   <a href = "https://steamcommunity.com/id/fikchei/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-s-juliao-11s" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/GustavoJuliao/GustavoJuliao/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
 
