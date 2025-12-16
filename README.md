@@ -1,7 +1,5 @@
 # Apresentação
-- 👋 Olá, sou brasileiro, tenho 25 anos e trabalho como desenvolvedor full stack web com Java | Spring Boot | SQL | MySQL, formado em ciência da computação, entusiasta de Segurança da Informação.
-- 🌱 Atualmente aprendendo java, spring boot, javascript.    
-- ⚡️ Curiosidade: gosto de jogos de turno, sou torcedor do São Paulo e Manchester United, além de formado como técnico de informática também possuo técnico em contabilidade. Morei na praia quando pequeno.
+- 👋 Olá, sou brasileiro, tenho 27 anos e trabalho como Desenvolvedor Java | Spring Boot | SQL | MySQL, formado em ciência da computação.
 
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoJuliao&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
